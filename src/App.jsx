@@ -5,7 +5,6 @@ import Predict from './pages/Predict'
 import Training from './pages/Training'
 import Database from './pages/Database'
 import About from './pages/About'
-//hanizaman
 function App() {
   return (
     <Router>
